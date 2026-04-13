@@ -37,7 +37,6 @@ Supporting data tables for the tissue optical clearing knowledge base used in my
 
 各数据表的字段含义、数据类型及说明可参考：
 
-- `field_description.md`
 - 论文正文第二章相关表格说明
 
 若个别字段名称与论文中表述存在中英文或书写形式差异，以本仓库数据表字段名为准，论文中的中文释义作为辅助说明。
