@@ -61,9 +61,6 @@ Supporting data tables for the tissue optical clearing knowledge base used in my
 
 - 第二章：组织光透明知识库的设计与构建  
 - 第三章：组织光透明方案生成模型的构建  
-- 附录：知识库主要数据表结构与示例记录  
-
-本仓库提供的是附录之外的完整数据补充材料。
 
 ## 引用说明
 
